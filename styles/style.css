@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    border: 3px dashed green;
+    height: 300px;
+}
+
+.header > div {
+    border: 3px dashed yellow;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header > div > p {
+
+}
+
+.header > div.img-maior {
+    border: 3px dashed blue;
+}
