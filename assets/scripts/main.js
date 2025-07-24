@@ -37,7 +37,7 @@ function scrollHeader() {
     // Quando o scroll for maior que 50vh (50% viewport height), adiciona a class scroll-header à tag header
     if(this.scrollY >- 50) header.classList.add('scroll-header'); else header.classList.remove('scroll-header')
 }
-Window.addEventListener('scroll',scrollHeader)
+window.addEventListener('scroll',scrollHeader)
 
 // ===SCROLL SECTIONS ACTIVE LINK===
 
