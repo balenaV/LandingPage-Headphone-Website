@@ -17,4 +17,4 @@
 
 ## Deploy
 O projeto está disponível no GitHub Pages:
-[https://seuusuario.github.io/seu-repositorio/](https://seuusuario.github.io/seu-repositorio/)
+[https://balenaV.github.io/LandingPage-Headphone-Website/](https://seuusuario.github.io/seu-repositorio/)
